@@ -1,0 +1,13 @@
+{
+  "name": "leaflet-orientedmarker",
+  "version": "0.1.0",
+  "description": "Leaflet Oriented Marker ===",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [leaflet, map, marker, rotate, orient],
+  "main": "./src/leaflet.orientedmarker.js",
+  "name": "leaflet-orientedmarker",
+  "author": "gismartwaredev",
+  "license": "ISC"
+}
