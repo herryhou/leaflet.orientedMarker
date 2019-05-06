@@ -7,7 +7,6 @@
   },
   "keywords": ["leaflet", "map", "marker", "rotate", "orient"],
   "main": "./src/leaflet.orientedmarker.js",
-  "name": "leaflet-orientedmarker",
   "author": "gismartwaredev",
   "license": "ISC"
 }
